@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TkinterColorNamePicker", "TkinterColorNamePicker\TkinterColorNamePicker.pyproj", "{592C5C7C-1596-4045-BD9B-7700FA58E34F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592C5C7C-1596-4045-BD9B-7700FA58E34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592C5C7C-1596-4045-BD9B-7700FA58E34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE2EDA9-7875-4F5B-A6BF-12D7DC53D34E}
+	EndGlobalSection
+EndGlobal
